@@ -1,3 +1,3 @@
-x = 1
-
-x = 
+missing_value = nil
+ 
+missing_value.length
